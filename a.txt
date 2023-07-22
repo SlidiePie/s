@@ -1,0 +1,11 @@
+{
+  "contact": "https://github.com/shaanaliyev",
+  "templates": [
+    {
+      "name": "MOMO",
+      "sources": ["https://imgur.com/7Vuzaa1"],
+      "x": 56,
+      "y": 489
+    }
+  ]
+}
